@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Cemento Portland",
+        "cantidad_stock": 100,
+        "ubicacion": "Sección A, Estantería 1",
+        "precio": 12.50
+    },
+    {
+        "titulo": "Ladrillos Cerámicos",
+        "cantidad_stock": 500,
+        "ubicacion": "Sección B, Estantería 2",
+        "precio": 1.75
+    },
+    {
+        "titulo": "Arena Fina",
+        "cantidad_stock": 200,
+        "ubicacion": "Sección C, Estantería 3",
+        "precio": 5.20
+    },
+    {
+        "titulo": "Hierro de Construcción",
+        "cantidad_stock": 300,
+        "ubicacion": "Sección D, Estantería 4",
+        "precio": 8.90
+    },
+    {
+        "titulo": "Madera para Encofrado",
+        "cantidad_stock": 150,
+        "ubicacion": "Sección E, Estantería 5",
+        "precio": 20.00
+    },
+    {
+        "titulo": "Tejas de Barro",
+        "cantidad_stock": 400,
+        "ubicacion": "Sección F, Estantería 6",
+        "precio": 2.30
+    },
+    {
+        "titulo": "Piedra Partida",
+        "cantidad_stock": 250,
+        "ubicacion": "Sección G, Estantería 7",
+        "precio": 15.75
+    },
+    {
+        "titulo": "Tubos PVC",
+        "cantidad_stock": 180,
+        "ubicacion": "Sección H, Estantería 8",
+        "precio": 3.50
+    },
+    {
+        "titulo": "Adhesivo para Azulejos",
+        "cantidad_stock": 120,
+        "ubicacion": "Sección I, Estantería 9",
+        "precio": 7.80
+    },
+    {
+        "titulo": "Varillas de Acero",
+        "cantidad_stock": 220,
+        "ubicacion": "Sección J, Estantería 10",
+        "precio": 9.25
+    }
+]
